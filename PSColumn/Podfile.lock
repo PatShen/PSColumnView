@@ -1,0 +1,23 @@
+PODS:
+  - PSColumnView (1.0.0):
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - PSColumnView (from `../PSColumnView`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PSColumnView:
+    :path: "../PSColumnView"
+
+SPEC CHECKSUMS:
+  PSColumnView: 071f21062f21234613afdc337424c3955d37f092
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 337e98389487e00cd2b2100e86d76ac0d98e35f1
+
+COCOAPODS: 1.9.1
